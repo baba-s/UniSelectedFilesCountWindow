@@ -22,4 +22,4 @@ Unity メニューの「Window > Selected Files Count」を選択すると
 
 ![](https://cdn-ak.f.st-hatena.com/images/fotolife/b/baba_s/20190921/20190921152703.png)  
 
-選択中のファイルを常に表示するウィンドウを表示できます  
+選択中のファイルの数を常に表示するウィンドウを表示できます  
