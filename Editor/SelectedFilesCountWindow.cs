@@ -1,16 +1,16 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace KoganeUnityLib
+namespace UniSelectedFilesCountWindow
 {
 	internal sealed class SelectedFilesCountWindow : EditorWindow
 	{
 		private int m_count;
 
-		[MenuItem( "Window/Selected Files Count" )]
+		[MenuItem( "Window/UniSelectedFilesCountWindow" )]
 		private static void Init()
 		{
-			var win = GetWindow<SelectedFilesCountWindow>( "Selected Files" );
+			var win = GetWindow<SelectedFilesCountWindow>( "UniSelectedFilesCountWindow" );
 			win.minSize = new Vector2( 32, 16 );
 		}
 
